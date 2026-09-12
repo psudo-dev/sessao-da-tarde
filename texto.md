@@ -207,26 +207,3 @@ Nesta segunda tem o pequeno Stuart Little 2. Esse ratinho se amarra em uma avent
 Você tem um encontro com o carrinho mais simpático do cinema. Ele andava meio enferrujado. Mas ao lado desses novos amigos ele vai pisar fundo nessa grande aventura. Se o meu fusca falasse. 
 Piratas, fadas e muita magia vão agitar o dia das crianças. Quando o perigoso capitão gancho resolve atacar é hora de peter pan entrar em ação. E ele vai viver uma fantástica aventura onde a imaginação voa alto. Dos estúdios de Wall Disney. Peter Pan, de volta a terra do nunca.
 Nesta quarta, na sessão da tarde tem, O corcunda de Notre Dame. Ele sempre foi muito esquisito mas capaz de tocar o coração das pessoas com a sua simpatia e bondade. Dos estúdios de Wall Disney, o Corcunda de Notre Dame. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-Sessão da Tarde, nesta segunda, depois de vale a pena ver de novo.
-
-
-
-Way back, I looked for tab organizers and after a while I kind of gave up and forgot about it, the other day I was checking some extensions and stumbled upon Toby and what a pleasant surprise it was. Not only it has great functionalities but also great UI. So I have a question and some suggestions.
-Question: "Toby stores your tabs locally on your computer but we recommend creating a Toby account in order to activate sync and a ton of extra features like sharing". It's not clear to me if a have a fresh install of Chrome, for instance, if I need to make a back up through Export/Import or if I can just log in with my Toby account and everything will be there.
-Suggestions: 
-1) The ability to have tags as a sub-bar, below the header bar, something similar to Organization - Teams, a sub-bar just for the tags would be nice.
-2) I think it would be nice to be able to see the tag, not just on mouse hover. Maybe hide that option on Advanced Features. I think visual/color clues are always nice and a faster way to recognize things and organize it.
-
